@@ -2,6 +2,7 @@
 
 Este repositorio contiene el análisis de datos relacionados con robos y recuperos de autos proporcionados por la Dirección Nacional del Registro de la Propiedad Automotor (DNRPA). Utilizamos `Python`, `Pandas`, `Matplotlib`, y otras bibliotecas para manipular, visualizar y analizar los datos. Además, integramos APIs como `yfinance` y `pytrends` para explorar diferentes análisis de datos financieros y de tendencias.
 
+Destacar que la finalidad ademas es la adquisición de datos.
 ## Contenido
 
 - `robos_autos.ipynb`: Análisis de datos de robos y recuperos de autos.
